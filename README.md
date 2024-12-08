@@ -1,3 +1,3 @@
-# Image-Classification
+# Image-Classification 📑
 
 CNN Model : MobileNetV2
